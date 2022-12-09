@@ -19,5 +19,5 @@ msgstr ""
 msgid "i3wm"
 msgstr "I3wm"
 
-msgid "DESCREVA EM POUCAS PALAVRAS O DESKTOP i3wm."
-msgstr "简而言之，描述桌面i3WM。"
+msgid "Gerenciador de Janelas com organização automática"
+msgstr "具有自动组织的窗口管理器"

@@ -19,5 +19,5 @@ msgstr ""
 msgid "i3wm"
 msgstr "Ι3wm"
 
-msgid "DESCREVA EM POUCAS PALAVRAS O DESKTOP i3wm."
-msgstr "ΠΕΡΙΓΡΑΨΤΕ ΜΕ ΛΙΓΑ ΛΟΓΙΑ ΤΗΝ ΕΠΙΦΑΝΕΙΑ ΕΡΓΑΣΙΑΣ i3wm."
+msgid "Gerenciador de Janelas com organização automática"
+msgstr "Διαχείριση παραθύρων με αυτόματη οργάνωση"

@@ -19,5 +19,5 @@ msgstr ""
 msgid "i3wm"
 msgstr "i3wm"
 
-msgid "DESCREVA EM POUCAS PALAVRAS O DESKTOP i3wm."
-msgstr "DESCREVA EM POUCAS PALAVRAS O DESKTOP i3wm."
+msgid "Gerenciador de Janelas com organização automática"
+msgstr "Gerenciador de Janelas com organização automática"

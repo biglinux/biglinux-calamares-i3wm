@@ -19,5 +19,5 @@ msgstr ""
 msgid "i3wm"
 msgstr "I3wm"
 
-msgid "DESCREVA EM POUCAS PALAVRAS O DESKTOP i3wm."
-msgstr "간단히 말해서 데스크탑 i3wm을 설명하십시오."
+msgid "Gerenciador de Janelas com organização automática"
+msgstr "자동 구성이있는 창 관리자"

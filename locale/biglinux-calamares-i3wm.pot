@@ -11,11 +11,11 @@ msgstr  "Project-Id-Version: biglinux-calamares-i3wm\n"
         "Language-Team: LANGUAGE <LL@li.org>\n"
         "Language: \n"
         "MIME-Version: 1.0\n"
-        "Content-Type: text/plain; charset=CHARSET\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
         "Content-Transfer-Encoding: 8bit\n"
 
 msgid   "i3wm"
 msgstr  ""
 
-msgid   "DESCREVA EM POUCAS PALAVRAS O DESKTOP i3wm."
+msgid   "Gerenciador de Janelas com organização automática"
 msgstr  ""
