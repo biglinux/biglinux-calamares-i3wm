@@ -1,1 +1,10 @@
 biglinux-skel-i3wm
+i3-wm
+i3lock
+i3status
+dmenu
+xfce4-terminal
+nitrogen
+lxdm
+libpamac-flatpak-plugin
+brave-browser
