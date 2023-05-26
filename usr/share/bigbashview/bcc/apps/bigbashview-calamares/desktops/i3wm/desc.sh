@@ -16,5 +16,5 @@ export TEXTDOMAINDIR="/usr/share/locale"
 export TEXTDOMAIN=biglinux-calamares-i3wm
 
 
-DESKTOP_NAME_DESC=$"i3wm"
+DESKTOP_NAME_DESC="i3wm"
 DESKTOP_INFO_DESC=$"Gerenciador de Janelas com organização automática"
