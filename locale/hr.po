@@ -16,8 +16,5 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 
-msgid "i3wm"
-msgstr "I3wm"
-
 msgid "Gerenciador de Janelas com organização automática"
 msgstr "Upravitelj prozora s automatskom organizacijom"
